@@ -96,3 +96,5 @@ Tests cover:
 Events are deduplicated using eventId. 
 ## Kafka Topic 
 user-activity-events 
+## Testing 
+Run tests using docker-compose exec 
