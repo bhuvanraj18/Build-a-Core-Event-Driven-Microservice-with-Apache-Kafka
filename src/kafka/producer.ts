@@ -43,3 +43,4 @@ export const disconnectProducer = async () => {
         await producer.disconnect();
     }
 }
+// Kafka producer initialized 
