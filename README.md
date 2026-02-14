@@ -94,3 +94,5 @@ Tests cover:
   ```
 ## Idempotency 
 Events are deduplicated using eventId. 
+## Kafka Topic 
+user-activity-events 
