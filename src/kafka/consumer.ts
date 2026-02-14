@@ -44,3 +44,4 @@ export const disconnectConsumer = async () => {
     }
 }
 // Kafka consumer group configuration 
+// error handling strategy documented 
