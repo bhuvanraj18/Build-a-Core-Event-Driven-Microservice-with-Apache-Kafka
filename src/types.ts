@@ -11,3 +11,4 @@ export interface UserEventPayload {
     eventType: 'LOGIN' | 'LOGOUT' | 'PRODUCT_VIEW';
     payload: Record<string, any>;
 }
+// event schema centralized 
