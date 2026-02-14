@@ -48,3 +48,4 @@ services:
     volumes:
       - .:/app
       - /app/node_modules
+# Health checks enabled 
