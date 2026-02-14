@@ -74,3 +74,4 @@ describe('E2E Integration Tests', () => {
         expect(true).toBe(true);
     });
 });
+// integration test flow explained 
