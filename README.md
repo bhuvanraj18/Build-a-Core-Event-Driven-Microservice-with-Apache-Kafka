@@ -92,3 +92,5 @@ Tests cover:
   ```bash
   npm run dev
   ```
+## Idempotency 
+Events are deduplicated using eventId. 
